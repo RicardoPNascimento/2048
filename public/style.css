@@ -1,0 +1,13 @@
+#score {
+    display: flex;
+    justify-content: center;
+
+}
+
+#myTable {
+    display: table;
+    width: 30%;
+    margin-top: 150px;
+    border-collapse: collapse;
+    font-size: 45px;
+}
